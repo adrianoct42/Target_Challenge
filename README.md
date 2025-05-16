@@ -1,3 +1,5 @@
+As respostas do desafio estão no arquivo "src/App.tsx"
+
 Perguntas do Desafio:
 
 1) Observe o trecho de código abaixo: int INDICE = 13, SOMA = 0, K = 0;
